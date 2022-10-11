@@ -125,6 +125,7 @@ function App() {
                                       ...provided.draggableProps.style
                                     }}
                                   >
+                                    <p>it is a task</p>
                                     {item.content}
                                   </div>
                                 );
